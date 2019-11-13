@@ -1,6 +1,6 @@
 name = "Convex"
 uuid = "f65535da-76fb-5f13-bab9-19810c17039a"
-version = "0.12.5"
+version = "0.12.6"
 
 [deps]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
@@ -13,6 +13,7 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
 AbstractTrees = "^0.2.1"
+BenchmarkTools = "^0.4"
 MathProgBase = "^0.7"
 OrderedCollections = "^1.0"
 julia = "^1.0"
